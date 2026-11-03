@@ -22,6 +22,11 @@ I write about AI, startups and running a remote company.
 #### ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [A personal token of gratitude](https://www.alexrodba.com/a-personal-token-of-gratitude/)
+- [The rise of Meat Proxies &lpar;and how to disarm them&rpar;](https://www.alexrodba.com/the-rise-of-meat-proxies-and-how-to-disarm-them/)
+- [First business trip in two years](https://www.alexrodba.com/first-business-trip-in-two-years/)
+- [Basic Instinct](https://www.alexrodba.com/basic-instinct-ai-instinct/)
+- [The golden era of AI-pilled founder entitlement](https://www.alexrodba.com/the-golden-era-of-ai-pilled-founder-entitlement/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts](https://www.alexrodba.com/archive/)
