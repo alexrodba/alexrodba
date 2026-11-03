@@ -1,6 +1,6 @@
 ### Hi, I'm Àlex 👋
 
-CEO and co-founder of **[MarsBased](https://marsbased.com)**, a remote-first development consultancy from Barcelona. Angel investor. Podcaster. Musician (guitar, bass, vocals). Author of *[Camino al Exit(o)](https://www.amazon.com/dp/8417760202)*.
+CEO and co-founder of **[MarsBased](https://marsbased.com)**, an AI-augmented software consultancy from Barcelona, 100% remote since 2014. Angel investor. Podcaster. Musician (guitar, bass, vocals). Author of *[Camino al Exit(o)](https://www.amazon.com/dp/8417760202)*.
 
 I write about AI, startups and running a remote company.
 
@@ -26,5 +26,5 @@ I write about AI, startups and running a remote company.
 | ✍️ Blog | [alexrodba.com](https://www.alexrodba.com) |
 | 🪐 Life on Mars | [podcast.marsbased.com](https://podcast.marsbased.com/) |
 | 🔥 Foc a Terra | [focaterra.cat](https://focaterra.cat) · [YouTube](https://www.youtube.com/@focaterra) |
-| 🎸 RES! | [Website](https://alexrodba.github.io/res/) · [Spotify](https://open.spotify.com/artist/5TGsKoYoodgc42udARkKA4) · [Bandcamp](https://resbcn.bandcamp.com/) · [Instagram](https://www.instagram.com/res_punk/) |
+| 🎸 No som RES! | [Website](https://alexrodba.github.io/res/) · [Spotify](https://open.spotify.com/artist/5TGsKoYoodgc42udARkKA4) · [Bandcamp](https://resbcn.bandcamp.com/) · [Instagram](https://www.instagram.com/res_punk/) |
 | 🐦 X | [@lexrodba](https://x.com/lexrodba) |
