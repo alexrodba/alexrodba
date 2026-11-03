@@ -11,7 +11,13 @@ I write about AI, startups and running a remote company.
 - **[Foc a Terra](https://focaterra.cat)**: a tech and business podcast in Catalan, co-hosted with Marc Collado.
 - **[No som RES!](https://alexrodba.github.io/res/)**: punk rock in Catalan from Barcelona. I sing and play bass.
 - **Angel investing**: investor in 30+ B2B startups, and LP in [itnig](https://itnig.net/) and [Masia.vc](https://masia.vc/).
-- **Open source on the side**: [remote-jobs](https://github.com/alexrodba/remote-jobs), [awesome-pokemon-home](https://github.com/alexrodba/awesome-pokemon-home), [ghost-legacy-analytics](https://github.com/alexrodba/ghost-legacy-analytics).
+
+#### 🛠️ Side projects
+
+- **[No Más IBEX 35](https://nomasibex35.com/)**: alternatives to IBEX 35 companies, sector by sector. Non-profit and open source ([repo](https://github.com/alexrodba/nomasibex35)).
+- **[microplastics.cat](https://www.microplastics.cat/)**: an informative site about microplastics, in Catalan ([repo](https://github.com/alexrodba/microplastics)).
+- **[awesome-pokemon-home](https://github.com/alexrodba/awesome-pokemon-home)**: a Pokémon Home guide for all the world to enjoy.
+- **[ghost-legacy-analytics](https://github.com/alexrodba/ghost-legacy-analytics)**: restores post analytics in the Ghost admin after migrating from Ghost(Pro) to self-hosted.
 
 #### 📫 Where to find me
 
