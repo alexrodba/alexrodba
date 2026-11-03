@@ -19,6 +19,13 @@ I write about AI, startups and running a remote company.
 - **[awesome-pokemon-home](https://github.com/alexrodba/awesome-pokemon-home)**: a Pokémon Home guide for all the world to enjoy.
 - **[ghost-legacy-analytics](https://github.com/alexrodba/ghost-legacy-analytics)**: restores post analytics in the Ghost admin after migrating from Ghost(Pro) to self-hosted.
 
+#### ✍️ Latest from the blog
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [More posts](https://www.alexrodba.com/archive/)
+
 #### 📫 Where to find me
 
 | | |
