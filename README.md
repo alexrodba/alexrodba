@@ -22,11 +22,11 @@ I write about AI, startups and running a remote company.
 #### ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Where are they now? The 15 protagonists from my book, 7 years later](https://www.alexrodba.com/camino-al-exito-where-are-they-now/)
 - [Back to Buffer, and how I built my own POSSE pipeline for &quot;thoughts&quot;](https://www.alexrodba.com/how-i-built-my-own-posse-pipeline-for-thoughts/)
 - [A personal token of gratitude](https://www.alexrodba.com/a-personal-token-of-gratitude/)
 - [The rise of Meat Proxies &lpar;and how to disarm them&rpar;](https://www.alexrodba.com/the-rise-of-meat-proxies-and-how-to-disarm-them/)
 - [First business trip in two years](https://www.alexrodba.com/first-business-trip-in-two-years/)
-- [Basic Instinct](https://www.alexrodba.com/basic-instinct-ai-instinct/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts](https://www.alexrodba.com/archive/)
